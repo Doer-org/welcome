@@ -19,6 +19,7 @@ Do'er へようこそ！🎉🎉
 - 所属 ：<例 do大学 er学部　saiko学科>
 - 普段取り組んでいる分野 ：<例 フロントエンド,バックエンド...>
 - 好きな言語/フレームワーク ：<例 do言語>
+- Twitter ：<例 https://twitter.com/du_doer>
 - GitHub ：<例 https://github.com/Doer-org>
 - ひとこと ：<例 do'er saiko-!>
 ```
